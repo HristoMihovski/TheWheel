@@ -24,3 +24,16 @@ body {
   background: #ddd;
   color: black;
 }
+
+.header {
+  padding: 100px;
+  background-image: url("/assets/old-wood-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  text-align: center;
+  color: orange;
+  font-size: 75px;
+}
