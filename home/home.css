@@ -1,5 +1,6 @@
 body {
     margin:0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .navbar {
@@ -34,6 +35,6 @@ body {
 
 .title {
   text-align: center;
-  color: orange;
+  color: #fff;
   font-size: 75px;
 }
