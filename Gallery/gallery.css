@@ -45,7 +45,23 @@ font-size: 75px;
 
 footer {
   text-align: center;
-  padding: 3px;
+  padding: 5px;
   background-color: #000;
   color: white;
+}
+
+iframe {
+  padding-left: 100px;
+  padding-top: 20px;
+}
+
+.bike {
+  padding-left: 20px;
+  padding-top: 20px;
+  width: 800px;
+}
+
+.wheel {
+  padding-left: 100px;
+  padding-bottom: 50px;
 }
